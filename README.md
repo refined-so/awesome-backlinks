@@ -76,3 +76,7 @@ If you want to sort the list by pricing and DA, check out the list on our [websi
 - [theresanaiforthat.com](https://theresanaiforthat.com/)
 - [buildinpublic.page](https://buildinpublic.page/)
 - [handpickedtools.com](https://handpickedtools.com/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=refined-so/awesome-backlinks&type=Date)](https://star-history.com/#refined-so/awesome-backlinks&Date)
