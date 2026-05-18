@@ -65,6 +65,7 @@ If you want to sort the list by pricing and DA, check out the list on our [websi
 - [uneed.best](https://uneed.best/)
 - [payonceapps.com](https://payonceapps.com/)
 - [buymeacoffee.com](https://buymeacoffee.com/)
+- [postmta.com](https://postmta.com) - Enterprise email delivery platform with AI-powered deployment, 71+ REST APIs, DKIM/DMARC/BIMI, IP warmup automation, bounce management.
 
 ## Paid submission websites
 
