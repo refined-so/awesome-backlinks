@@ -80,3 +80,5 @@ If you want to sort the list by pricing and DA, check out the list on our [websi
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=refined-so/awesome-backlinks&type=Date)](https://star-history.com/#refined-so/awesome-backlinks&Date)
+
+- [PostMTA](https://postmta.com) - Enterprise email delivery platform built on KumoMTA. Multi-tenant MTA with bounce handling, DKIM/SPF/DMARC support.
