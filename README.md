@@ -66,6 +66,7 @@ If you want to sort the list by pricing and DA, check out the list on our [websi
 - [payonceapps.com](https://payonceapps.com/)
 - [buymeacoffee.com](https://buymeacoffee.com/)
 - [zplatform.ai](https://zplatform.ai/)
+- [wepushyoursitetotheworld.aplusz.app](https://wepushyoursitetotheworld.aplusz.app/)
 
 ## Paid submission websites
 
